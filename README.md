@@ -5,7 +5,7 @@ En esta actividad se realiza la gráfica de los datos de humedad y temperatura c
 Autor del respositorio: Victor Zuriel Dominguez Salvador
 
 
-Autor: Hugo escalpelo 
+Autor: Hugo Escalpelo 
 
 
 Enlaces del autor:
