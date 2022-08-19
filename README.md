@@ -2,13 +2,13 @@
 En esta actividad se realiza la gráfica de los datos de humedad y temperatura con el sensor DHT11 a través de MQTT
 
 
-Autor del respositorio: Victor Zuriel Dominguez Salvador
+**Autor del respositorio: Victor Zuriel Dominguez Salvador**
 
 
-Autor: Hugo Escalpelo 
+**Autor: Hugo Escalpelo**
 
 
-Enlaces del autor:
+**Enlaces del autor:**
 
 
 https://github.com/codigo-iot/publicar-strings-json-mqtt-nodemcu-wifi/blob/main/nodemcu-mqtt-json/nodemcu-mqtt-json.ino
@@ -22,7 +22,7 @@ Biblioteca sugerida de Adafruit para el DHT11: https://www.arduino.cc/pro/hardwa
 
 
 
-##Requisitos:
+**Requisitos:**
 
 
 -ESP32-CAM
