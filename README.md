@@ -22,7 +22,7 @@ Biblioteca sugerida de Adafruit para el DHT11: https://www.arduino.cc/pro/hardwa
 
 
 
-Requisitos:
+###### Requisitos:
 
 
 -ESP32-CAM
@@ -36,7 +36,7 @@ Requisitos:
 
 
 --------------------------------------------------------------------
-Descripcion de funcionamiento.
+###### Descripcion de funcionamiento.
 
 
 Ejercicios
@@ -56,11 +56,11 @@ Como primer ejercicio realizaremos lo siguiente:
 
 2. Ejercicio del MQTT JSON
 
-https://github.com/codigo-iot/publicar-strings-json-mqtt-nodemcu-wifi/blob/main/nodemcu-mqtt-json/nodemcu-mqtt-json.ino
+    https://github.com/codigo-iot/publicar-strings-json-mqtt-nodemcu-wifi/blob/main/nodemcu-mqtt-json/nodemcu-mqtt-json.ino
 
-En este caso, haremos uso de un codigo realizado en el ejercicio "Conexión básica por mqtt"
+    En este caso, haremos uso de un codigo realizado en el ejercicio "Conexión básica por mqtt"
 
-*Nota: en este ejercicio solo se cambio una parte del codigo ya que puede funcionar adecuadamente.*
+    *Nota: en este ejercicio solo se cambio una parte del codigo ya que puede funcionar adecuadamente.*
 
 
 
@@ -110,7 +110,7 @@ En este caso, haremos uso de un codigo realizado en el ejercicio "Conexión bás
 
 
 
-Evidencias.
+###### Evidencias.
 
 
 Ejercicio 1
