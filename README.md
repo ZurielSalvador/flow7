@@ -144,4 +144,4 @@ De manera física podemos ver que el Led esta prendido:
 
 
 
-Para el ejercicio 3 que es denominado FLOW 7 se le agreron mas cosas, es por ello que se encuentra en el siguiente repositorio nombrado: flow7.1
+Para el ejercicio 3, se continuara en el siguiente repositorio nombrado: flow7.1 para abordar detalladamente la gráfica.
