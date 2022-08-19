@@ -22,7 +22,7 @@ Biblioteca sugerida de Adafruit para el DHT11: https://www.arduino.cc/pro/hardwa
 
 
 
-###### Requisitos:
+##Requisitos:
 
 
 -ESP32-CAM
@@ -36,7 +36,7 @@ Biblioteca sugerida de Adafruit para el DHT11: https://www.arduino.cc/pro/hardwa
 
 
 --------------------------------------------------------------------
-###### Descripcion de funcionamiento.
+## Descripcion de funcionamiento.
 
 
 Ejercicios
@@ -110,7 +110,7 @@ Como primer ejercicio realizaremos lo siguiente:
 
 
 
-###### Evidencias.
+## Evidencias.
 
 
 Ejercicio 1
